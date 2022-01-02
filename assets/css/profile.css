@@ -1,0 +1,52 @@
+.akshat {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    /* margin-left: 2px;
+    margin-right: px; */
+}
+
+.about-para {
+    font-weight: 400;
+    font-size: 17px;
+}
+.mini-card
+{
+    margin-top: 320px;
+    margin-bottom: 10px;
+}
+
+.mini-card-title {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2rem;
+    font-weight: 600;
+}
+
+
+
+.mini-card-icon {
+    padding-top: 3rem;
+    margin-top: 30px;
+    text-align: center;
+    color:#00B4DB;
+
+}
+
+.mini-card-icon:hover{
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.resume {
+    background-color: whitesmoke;
+    
+}
